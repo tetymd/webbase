@@ -1,1 +1,1 @@
-module github.com/tetymd/api
+module github.com/tetymd/webbase

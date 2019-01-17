@@ -2,7 +2,7 @@ package main
 
 import (
     "log"
-    "github.com/tetymd/api/account"
+    "github.com/tetymd/webbase/account"
 )
 
 func main() {
