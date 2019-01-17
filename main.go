@@ -7,9 +7,9 @@ import (
 
 func main() {
     u := account.User{
-        UserId: "test",
-        UserName: "testuser",
-        Password:  "test",
+        UserId:   "dev",
+        UserName: "devuser",
+        Password: "devpass",
     }
 
     log.Println(u.UserName)
